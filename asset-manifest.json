@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/heun/static/js/main.a6dfcd66.js",
+    "service-worker.js": "/heun/service-worker.js",
+    "index.html": "/heun/index.html",
+    "main.a6dfcd66.js.map": "/heun/static/js/main.a6dfcd66.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a6dfcd66.js"
+  ]
+}
