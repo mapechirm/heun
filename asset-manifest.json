@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/heun/static/js/main.3f07293b.js",
+    "main.js": "/heun/static/js/main.73bfd1e1.js",
     "service-worker.js": "/heun/service-worker.js",
     "index.html": "/heun/index.html",
-    "main.3f07293b.js.map": "/heun/static/js/main.3f07293b.js.map"
+    "main.73bfd1e1.js.map": "/heun/static/js/main.73bfd1e1.js.map"
   },
   "entrypoints": [
-    "static/js/main.3f07293b.js"
+    "static/js/main.73bfd1e1.js"
   ]
 }
